@@ -1,0 +1,38 @@
+body {
+    background-color: #8C8D8E;
+}
+
+.mb-3 {
+    padding: 50px;
+}
+
+.szoveg {
+    padding: 50px;
+    color: black;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.kapcsolat {
+    padding-top: 100px;
+    color: black;
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.szoveg1 {
+    padding: 50px;
+    padding-right: 780px;
+    color: black;
+    font-size: 21px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: justify;
+}
+
+.portre {
+    padding-left: 70%;
+    padding-top: 5%;
+    width: 100px;
+    height: 50px;
+}
